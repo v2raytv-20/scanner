@@ -43,7 +43,7 @@
 
 
 1 Installation
-� curl -fsSL https://raw.githubusercontent.com/v2raytv-20/scanner/refs/heads/main/scanner.sh -o scan.sh && sed -i '1i echo -e "\033[1;32m---------------------------------------\033[0m"' scan.sh && sed -i '2i figlet "IP SCANNER" | lolcat' scan.sh && sed -i '3i echo -e "\033[1;32m---------------------------------------\033[0m"' scan.sh && chmod +x scan.sh && bash scan.sh🚀
+ curl -fsSL https://raw.githubusercontent.com/v2raytv-20/scanner/refs/heads/main/scanner.sh -o scan.sh && sed -i '1i echo -e "\033[1;32m---------------------------------------\033[0m"' scan.sh && sed -i '2i figlet "IP SCANNER" | lolcat' scan.sh && sed -i '3i echo -e "\033[1;32m---------------------------------------\033[0m"' scan.sh && chmod +x scan.sh && bash scan.sh
 
 2 panel
 bash scan.sh
