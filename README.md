@@ -52,6 +52,6 @@ curl -fsSL https://raw.githubusercontent.com/v2raytv-20/scanner/refs/heads/main/
 
 2 panel
 
-
-./scan.sh
-
+```bash
+bash scan.sh
+```
